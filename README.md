@@ -1,0 +1,3 @@
+- Close Pycharm
+- Run script
+- Profit!
