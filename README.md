@@ -1,3 +1,4 @@
 - Close Pycharm
 - Run script
 - Profit!
+- you can now select "start free trial" again the next time you run pycharm
